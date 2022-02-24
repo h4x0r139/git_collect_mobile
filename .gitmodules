@@ -1,0 +1,6 @@
+[submodule "01_Google/architecture-samples"]
+	path = 01_Google/architecture-samples
+	url = git@github.com:android/architecture-samples.git
+[submodule "01_Google/sunflower"]
+	path = 01_Google/sunflower
+	url = git@github.com:android/sunflower.git
