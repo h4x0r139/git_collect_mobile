@@ -5,8 +5,12 @@
 个人收集的移动开发项目，使用git submodule方式，引用已有项目。包含：Android、Flutter、iOS等
 
 
+# 环境与使用
 
-目录
+submodule的使用、git拉取常见问题 参考：[使用submodle及相关问题.md](https://github.com/h4x0r139/git_collect_note/blob/master/doc/%E4%BD%BF%E7%94%A8submodle%E5%8F%8A%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md)
+
+
+文件目录
 
 1. [01_Google](01_Google)：Google 官方项目
 
@@ -26,18 +30,13 @@ git submodule add git@github.com:android/sunflower.git 01_Google/sunflower
 
 
 
-### architecture-samples：不同架构实现的demo
-
-https://github.com/android/architecture-samples
-
+### [architecture-samples](
+https://github.com/android/architecture-samples)：不同架构实现的demo
 - starred：40.2k，Google Android 官方推荐的架构示例
 
 
 
-### sunflower： Jetpack最佳实践demo
-
-https://github.com/android/sunflower/
-
+### [sunflower](https://github.com/android/sunflower/)： Jetpack最佳实践demo
 - starred：15.4k；Android Jetpack最佳实践demo
 - A gardening app illustrating Android development best practices with Android Jetpack.
 
@@ -45,7 +44,5 @@ https://github.com/android/sunflower/
 
 
 
-# 环境与使用
 
-submodule的使用、git拉取常见问题 参考：https://github.com/h4x0r139/git_collect_note#%E9%A1%B9%E7%9B%AE%E7%8E%AF%E5%A2%83
 
