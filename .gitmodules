@@ -4,3 +4,12 @@
 [submodule "01_Google/sunflower"]
 	path = 01_Google/sunflower
 	url = git@github.com:android/sunflower.git
+[submodule "01_Google/compose"]
+	path = 01_Google/compose
+	url = git@github.com:android/compose-samples.git
+[submodule "01_Google/user-interface-samples"]
+	path = 01_Google/user-interface-samples
+	url = git@github.com:android/user-interface-samples.git
+[submodule "01_Google/android-testing"]
+	path = 01_Google/android-testing
+	url = git@github.com:googlecodelabs/android-testing.git
