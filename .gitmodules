@@ -13,3 +13,6 @@
 [submodule "01_Google/android-testing"]
 	path = 01_Google/android-testing
 	url = git@github.com:googlecodelabs/android-testing.git
+[submodule "01_Google/android-testing-samples"]
+	path = 01_Google/android-testing-samples
+	url = git@github.com:android/testing-samples.git

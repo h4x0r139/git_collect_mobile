@@ -25,6 +25,7 @@ git submodule add git@github.com:android/sunflower.git 01_Google/sunflower
 git submodule add git@github.com:android/compose-samples.git 01_Google/compose
 git submodule add git@github.com:android/user-interface-samples.git 01_Google/user-interface-samples
 git submodule add git@github.com:googlecodelabs/android-testing.git 01_Google/android-testing
+git submodule add git@github.com:android/testing-samples.git 01_Google/android-testing-samples
 ```
 
 
@@ -81,3 +82,12 @@ git submodule add git@github.com:googlecodelabs/android-testing.git 01_Google/an
 1. Advanced Android in Kotlin 05.1: Testing Basics：https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics?hl=zh-cn#2
 2. https://github.com/googlecodelabs/android-testing
 
+
+
+### [android/testing-samples](https://github.com/android/testing-samples)：在Android平台上测试应用示例
+
+在Android平台上测试应用：https://developer.android.com/training/testing?hl=zh-cn
+
+- espresso 使用：https://developer.android.com/training/testing/espresso?hl=zh-cn
+
+- codelab：https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics?hl=zh-cn#0
